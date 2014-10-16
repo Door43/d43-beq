@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[beq:home|Door43 (beq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-beq|d43-beq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-beq/archive/master.zip|d43-beq.zip]]
+
+**Recent Changes**
+{{changes>ns = beq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/beq|Ethnologue data]]
+
